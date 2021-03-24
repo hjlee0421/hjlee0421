@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hajune Lee
-- 👀 I’m interested in Analyze data and find hidden pattern or insight
+- 👀 I’m interested in analyzing data and finding hidden patterns or insights
 - 🌱 I’m currently learning Statistical Analysis, Visualization, SQL
 - 💞️ I’m looking to collaborate on solving people's problems with data
 - 📫 How to reach me : hjlee0421@gmail.com
